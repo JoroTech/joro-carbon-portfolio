@@ -6,7 +6,7 @@ See more details on how we select projects here: https://www.joro.app/how-we-sel
 Read about our team and expert advisors here: https://www.joro.app/about-us
 
 In this repo, you'll find:
-* A folder of detailed provider evaluations for Fall 2021
+* Detailed provider evaluations for Fall 2021
     * Running Tide
     * Charm Industrial
     * NCX
